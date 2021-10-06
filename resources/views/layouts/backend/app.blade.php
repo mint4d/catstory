@@ -104,6 +104,10 @@
     <!-- Custom Js -->
     <script src="{{ asset('assets/backend/js/admin.js') }}"></script>
     
+    <!-- Morris Plugin Js -->
+    <script src="{{ asset('assets/backend/plugins/raphael/raphael.min.js') }}"></script>
+    <script src="{{ asset('assets/backend/plugins/morrisjs/morris.js') }}"></script>
+
 
     <!-- Demo Js -->
     <script src="{{ asset('assets/backend/js/demo.js') }}"></script>
